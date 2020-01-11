@@ -2,7 +2,7 @@
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/xubinggui/xu/dev/flutter/sdk/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/xubinggui/xu/dev/flutter/flutter_demo"
-export "FLUTTER_TARGET=/Users/xubinggui/xu/dev/flutter/flutter_demo/lib/whatsapp_demo/main.dart"
+export "FLUTTER_TARGET=/Users/xubinggui/xu/dev/flutter/flutter_demo/lib/pokemon/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/xubinggui/xu/dev/flutter/sdk/flutter/bin/cache/artifacts/engine/ios"
